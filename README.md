@@ -1,8 +1,5 @@
-# DIO - Trilha .NET - Programação orientada a objetos
-www.dio.me
-
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
+Este projeto foi desenvolvido como parte do desafio proposto no BootCamp de C# .NET da DIO. A solução utiliza lógica de programação e princípios de Programação Orientada a Objetos (POO), incluindo a implementação de classes, herança e polimorfismo, para atender aos requisitos do desafio de forma eficiente e clara.
 
 ## Contexto
 Você é responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que você faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
